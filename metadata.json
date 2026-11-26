@@ -1,0 +1,6 @@
+{
+  "name": "Pojok Baca Widya Pustaka — BKPSDM Kota Batu",
+  "description": "Aplikasi web terpadu manajemen perpustakaan SKPD untuk formulir peminjaman dan pengembalian buku digital, katalog koleksi, statistik sirkulasi, serta cetak laporan rekap bukti dukung resmi SKP/DUPAK/SAKIP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
